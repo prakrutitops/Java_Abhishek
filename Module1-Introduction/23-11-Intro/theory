@@ -1,0 +1,27 @@
+Compiler - JDK -Java Development Kit
+Editor - Eclipse
+
+Eclipse
+Netbeans
+Notepad
+Notepad++
+Vs Code
+
+JDK
+1.Download the JDK
+2.Install JDK
+3.Set the Path
+C:\Program Files\Java\jdk1.8.0_191\bin
+
+This PC->right click ->properties->Advanced system settings->Environment variables->
+path->edit ->paste your path->click on finish
+
+4. Open Your cmd and type javac
+
+JDK -Java Development Kit-compiler
+JRE -Java Runtime Environment-System Library
+JVM -Java Virtual Machine
+
+
+Eclipse
+
