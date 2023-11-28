@@ -1,0 +1,10 @@
+String:
+
+1)StringBuilder -> Immutable -> can not change
+2)StringBuffer -> Mutable -> can change
+
+
+
+
+
+
