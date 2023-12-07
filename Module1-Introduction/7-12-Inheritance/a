@@ -1,0 +1,32 @@
+Inheirtance:
+
+Types of Inheritance:
+1)Single
+2)Multilevel
+3)Multiple
+4)Hierarchical
+5)Hybrid
+
+
+parent - child
+base - derived
+super -sub
+
+public
+private
+protected
+default[No Modifier]
+
+
+interface -> Collection of abstract methods that is called an interface
+
+void a()
+{
+	//body
+}
+
+void a();
+
+
+
+
