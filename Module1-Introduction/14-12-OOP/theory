@@ -1,0 +1,63 @@
+Exception Handling:
+
+Exception -> Errors
+
+Keywords:
+1)try
+2)catch
+3)throw
+4)throws
+5)finally
+
+
+FileOutputStream -> write
+FileInputStream ->read
+
+
+Task 1:
+Name
+Surname
+Email
+Password
+Confirm Password
+
+Data ->Write ->File
+
+Your Name : Abhishek
+Your Surname : Xyz
+Your Email : abhishek@gmail.com
+Your Password : 12345
+
+FileOutputStream -> write -> Serialization
+FileInputStream ->read -> Deserialization
+
+Serializable->interface
+
+Task 2:
+Randomization
+
+
+Random();
+
+
+
+Enter Your Lucky Number: 8
+
+Press 1 for Play 
+Press 0 for Stop
+
+System Lucky nUmbner is : random number [1 to 10]
+
+Your are winner
+Looser
+
+
+
+
+
+
+
+
+
+
+
