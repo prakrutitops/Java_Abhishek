@@ -1,0 +1,31 @@
+Collection : Class+Methods+Interfaces
+==========================================
+List:
+ArrayList
+LinkedList
+
+Set:
+HashSet
+LinkedHashSet
+
+Vector
+Stack
+
+Map:
+HashMap
+============================================
+ArrayList:
+add
+addAll
+remove
+removeAll
+retainAll
+
+LinkedList:
+addFirst
+addLast
+
+Vector:
+
+Set:It removes Duplicate elements
+
