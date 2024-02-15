@@ -1,0 +1,28 @@
+List:
+
+ArrayList
+LinkedList
+
+Set:
+
+HashSet
+LinkedHashset
+
+Map:
+
+HashMap->Key and value pair
+
+
+
+
+
+Vector ->Dynamically size 
+Stack -> push ,pop
+
+
+
+Generics Method
+
+Comparable -> compareTo
+Comparator -> compare
+
