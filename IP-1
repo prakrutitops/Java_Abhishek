@@ -1,0 +1,89 @@
+Core Java:
+
+1)Basics:
+Conditional statement:
+if,else if,else,nested if,
+switch,case,break,continue
+Looping Statement
+Patterns
+
+2)OOP:
+Object
+Class
+Abstraction
+Encapsulation
+Inheritance
+Polymorphism
+-------------------------------
+keywords:this,static,final,super
+
+Constructor:When Method Having a same as a classname 
+1)Default
+2)parameterized
+3)copy
+
+1)single in
+2)multilevel in
+3)multiple in
+4)Hierarchical in
+5)Hybrid in
+
+interface: collection of abstract methods
+
+abstract method: which does not have a body part
+
+
+abstract class A
+{
+	abstract void a();
+	void b()
+	{
+
+	}
+}
+
+-------------------------------
+Method Overloading:Method name will be same but number of paramters should be diffrent
+
+int add(int a,int b,int c)
+{
+
+}
+int add(int a,int b)
+{
+
+}
+
+Method Overriding:Method name will be same and number of paramters are also same.
+
+Exception :Errors
+
+Keywords:
+1)try-catch
+2)throw
+3)throws
+4)finally
+
+File I/o:
+
+1)FileReader,FileWriter->String
+2)FileInputStream,FileOutputStream->bytes
+3)File
+
+Collection Framework:
+
+List->ArrayList,LinkedList
+Set->HashSet,LinkedHashSet
+Map->HashMap
+Vector
+Stack
+
+Sorting
+
+Array:Collection of Items
+Sysetm.ArrayCopy();
+
+GUI
+
+StringBuilder,StringBuffer
+Wrapper Class:data type-> class
